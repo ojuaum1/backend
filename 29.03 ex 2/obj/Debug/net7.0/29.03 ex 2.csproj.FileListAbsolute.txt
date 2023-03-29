@@ -1,0 +1,15 @@
+C:\Users\48342168883\Desktop\backend\29.03 ex 2\bin\Debug\net7.0\29.03 ex 2.exe
+C:\Users\48342168883\Desktop\backend\29.03 ex 2\bin\Debug\net7.0\29.03 ex 2.deps.json
+C:\Users\48342168883\Desktop\backend\29.03 ex 2\bin\Debug\net7.0\29.03 ex 2.runtimeconfig.json
+C:\Users\48342168883\Desktop\backend\29.03 ex 2\bin\Debug\net7.0\29.03 ex 2.dll
+C:\Users\48342168883\Desktop\backend\29.03 ex 2\bin\Debug\net7.0\29.03 ex 2.pdb
+C:\Users\48342168883\Desktop\backend\29.03 ex 2\obj\Debug\net7.0\29.03 ex 2.csproj.AssemblyReference.cache
+C:\Users\48342168883\Desktop\backend\29.03 ex 2\obj\Debug\net7.0\29.03 ex 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48342168883\Desktop\backend\29.03 ex 2\obj\Debug\net7.0\29.03 ex 2.AssemblyInfoInputs.cache
+C:\Users\48342168883\Desktop\backend\29.03 ex 2\obj\Debug\net7.0\29.03 ex 2.AssemblyInfo.cs
+C:\Users\48342168883\Desktop\backend\29.03 ex 2\obj\Debug\net7.0\29.03 ex 2.csproj.CoreCompileInputs.cache
+C:\Users\48342168883\Desktop\backend\29.03 ex 2\obj\Debug\net7.0\29.03 ex 2.dll
+C:\Users\48342168883\Desktop\backend\29.03 ex 2\obj\Debug\net7.0\refint\29.03 ex 2.dll
+C:\Users\48342168883\Desktop\backend\29.03 ex 2\obj\Debug\net7.0\29.03 ex 2.pdb
+C:\Users\48342168883\Desktop\backend\29.03 ex 2\obj\Debug\net7.0\29.03 ex 2.genruntimeconfig.cache
+C:\Users\48342168883\Desktop\backend\29.03 ex 2\obj\Debug\net7.0\ref\29.03 ex 2.dll

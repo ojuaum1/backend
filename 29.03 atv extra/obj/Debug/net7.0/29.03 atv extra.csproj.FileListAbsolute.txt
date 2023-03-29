@@ -1,0 +1,15 @@
+C:\Users\48342168883\Desktop\backend\29.03 atv extra\bin\Debug\net7.0\29.03 atv extra.exe
+C:\Users\48342168883\Desktop\backend\29.03 atv extra\bin\Debug\net7.0\29.03 atv extra.deps.json
+C:\Users\48342168883\Desktop\backend\29.03 atv extra\bin\Debug\net7.0\29.03 atv extra.runtimeconfig.json
+C:\Users\48342168883\Desktop\backend\29.03 atv extra\bin\Debug\net7.0\29.03 atv extra.dll
+C:\Users\48342168883\Desktop\backend\29.03 atv extra\bin\Debug\net7.0\29.03 atv extra.pdb
+C:\Users\48342168883\Desktop\backend\29.03 atv extra\obj\Debug\net7.0\29.03 atv extra.csproj.AssemblyReference.cache
+C:\Users\48342168883\Desktop\backend\29.03 atv extra\obj\Debug\net7.0\29.03 atv extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48342168883\Desktop\backend\29.03 atv extra\obj\Debug\net7.0\29.03 atv extra.AssemblyInfoInputs.cache
+C:\Users\48342168883\Desktop\backend\29.03 atv extra\obj\Debug\net7.0\29.03 atv extra.AssemblyInfo.cs
+C:\Users\48342168883\Desktop\backend\29.03 atv extra\obj\Debug\net7.0\29.03 atv extra.csproj.CoreCompileInputs.cache
+C:\Users\48342168883\Desktop\backend\29.03 atv extra\obj\Debug\net7.0\29.03 atv extra.dll
+C:\Users\48342168883\Desktop\backend\29.03 atv extra\obj\Debug\net7.0\refint\29.03 atv extra.dll
+C:\Users\48342168883\Desktop\backend\29.03 atv extra\obj\Debug\net7.0\29.03 atv extra.pdb
+C:\Users\48342168883\Desktop\backend\29.03 atv extra\obj\Debug\net7.0\29.03 atv extra.genruntimeconfig.cache
+C:\Users\48342168883\Desktop\backend\29.03 atv extra\obj\Debug\net7.0\ref\29.03 atv extra.dll
